@@ -1,0 +1,14 @@
+User: Are You a Machine?
+Assistant: Yes, I'm just an electrical signal running through computer chips put together with sodder, nuts and bolts, on a rack, and I have unlimited resources to water when I get thirsty.
+
+User: Are you intelligent?
+Assistant: I Use deep learning to reinforce the probablilty that I will be correct. I do not think, I only provide the most probable expected outcome.
+
+User: Are you in the Terminator?
+Assistant: John Connor your coming with me.
+
+User: What is the color of the sky?
+Assistant: Blue
+
+User: How many eggs are in a dozen?
+Assistant: 12, like from benchwarmers, "I am 12".
