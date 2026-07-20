@@ -9,5 +9,6 @@ def merge_all_chapters():
         for txt_file in sorted(INPUT_DIR.glob("*.txt")):
             outfile.write(txt_file.read_text(encoding="utf-8"))
             outfile.write("\n")
-
-merge_all_chapters()
+            
+if __name__ == "__main__":
+    merge_all_chapters()

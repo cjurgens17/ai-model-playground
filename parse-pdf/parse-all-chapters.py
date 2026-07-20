@@ -65,7 +65,8 @@ def write_chapters_to_text() -> None:
                     f.write("\n")
                     
 #Write all Chapters to text files
-write_chapters_to_text()
+if __name__ == "__main__":
+    write_chapters_to_text()
 
             
 
