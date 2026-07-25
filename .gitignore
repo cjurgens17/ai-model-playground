@@ -3,3 +3,5 @@ llama.cpp
 randomLLM
 
 /build-gguf/randomLLM.gguf
+
+tinyllama-base
