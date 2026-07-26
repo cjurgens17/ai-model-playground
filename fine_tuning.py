@@ -41,7 +41,7 @@ training_args = TrainingArguments(
     num_train_epochs=3,
     save_strategy="epoch",
     logging_steps=5,
-    fp16=True,
+    fp16=False,
     report_to="none",
     remove_unused_columns=False
 )
